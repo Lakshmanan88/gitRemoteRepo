@@ -14,6 +14,11 @@ public class HomePagePO {
 		dispName.click();
 	}
 	
+	public void Dummy() {
+		dispName.click();
+	}
+	
+	
 	public String getDispName() {
 		return dispName.getText();
 	}
