@@ -17,5 +17,8 @@ public class HomePagePO {
 	public String getDispName() {
 		return dispName.getText();
 	}
+	public String ABC() {
+		return dispName.getText();
+	}
 
 }
